@@ -17,5 +17,8 @@ this powerful tool by dedicating at least 1 hour of your time everyday to studyi
 
 ## Daily log
 
-### 11 sept 
+### 11 sept - Day 1
   Worked on settting up an environment for the openAI gym. Created the basic file systems and got the projects running. For some reason the module is not loadable, should fix that now.
+
+### 12 sept - Day 2
+  Finished the OpenAI environment for the OddorEven player. Completed the environment when the agent is bowling. The reward function is in experimental stage and will need tweaking.
